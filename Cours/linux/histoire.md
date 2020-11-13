@@ -30,5 +30,5 @@
 - **2011** : La majorité des personnes dans le monde utilisent Linux sans souvent en avoir conscience. Comme le rappelle la Linux Fondation, Linux équipe 75% des places boursières dans le monde, dont Wall Street, ainsi que 95% des supercalculateurs. Les serveurs Web sont en majorité sous Linux
 - **2012** : Linus Torvald se plaint de Nvidia lors d'une conférence à stockholm et réplique le célèbre "fuck you Nvidia".
 - **2013** : Le téléphone Ubuntu est annoncé.
-- **2014** : Microsoft s'entendent bien Linux
+- **2014** : Microsoft s'entendent bien avec Linux
 - **2015** : Microsoft a sa propre version de Linux.
